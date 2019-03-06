@@ -29,12 +29,13 @@ with open('stopword.txt', 'r', encoding='UTF-8') as file:
         import_stop.append(each.strip())
     import_stop.append(' ')
 
-#使用string去除punctuation
+#從中文斷詞改成英文斷詞，使用string去除punctuation
 def remove_punctuation(content_string):
     translator = str.maketrans('', '', string.punctuation)
     clean_content = content_string.translate(translator)
     return(clean_content)
 
+#去除中文的單詞及標點符號
 def remove_chinese_words(content):
     words = [word for word in content if word.isalpha()]
     return(words)
