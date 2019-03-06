@@ -1,15 +1,12 @@
-# DataScienceProgramming
-
-公告
+# Song Lyrics Crawling
 =============
 
-###### 課程：107-2資料科學程式設計 學生：俞又瑄 學籍：土木所交通組碩一 學號：R07521515 ######
+###### 從 KKBOX 網頁中，擷取歐美排行榜上歌曲的歌詞，並作成文字雲 ######
 
-Week 1
-----
-### Progress ###
-* In class
-  1. Learn GitHub
-  2. Write ReadMe
-* At home
-* Homework
+### 修改部分 ###
+* 使用英文斷詞
+  1. string
+  2. NLTK
+### 問題 ###
+原本希望擷取MyMusic網站的歌詞，但是卻發現無法完整擷取，相同程式碼在KKBOX就可以正常運作。
+或許是遇到房爬蟲的網站了？即使是修改headers也無法改善
