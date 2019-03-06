@@ -73,7 +73,9 @@ def song_get_coshow(contents):
     coshow_dict = {}
     cat_content = ' '.join(contents)
     clean_content = remove_punctuation(cat_content)
-    cut_content = cut_words(clean_content)
+    #將所有單字轉換成小寫
+    lower_content = clean_content.lower()
+    cut_content = cut_words(lower_content)
     cut_content = remove_chinese_words(cut_content)
     
     cut_content = list(filter(lambda x: x!=' ', cut_content))
