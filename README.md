@@ -12,4 +12,10 @@ Week 1
   1. Learn GitHub
   2. Write ReadMe
 * At home
+  1. Wordcloud
+  2. Crawling
+  3. Tokenize English words
+      1. nltk(Natural Language Tool Kit)
+      2. string
 * Homework
+  Lyrics crawling
