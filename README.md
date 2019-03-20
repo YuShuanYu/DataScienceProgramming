@@ -21,3 +21,13 @@ Week 1
 
 * Homework
   Lyrics crawling
+
+Week 2
+----
+### Progress ###
+* In class
+  1. Introduce case-study
+  2. Exploratory Data Analysis(EDA)
+ 
+* At home
+  1. Using R make EDA
