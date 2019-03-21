@@ -9,8 +9,8 @@ Week 1
 ----
 ### Progress ###
 * In class
-  1. Learn GitHub
-  2. Write ReadMe
+  1. 學習GitHub使用方法：push pull branch
+  2. 學習用Markdown寫ReadMe
  
 * At home
   1. Wordcloud
@@ -20,14 +20,25 @@ Week 1
       2. string
 
 * Homework
-  Lyrics crawling
+  Lyrics crawling歌詞爬蟲
 
 Week 2
 ----
 ### Progress ###
 * In class
-  1. Introduce case-study
+  1. 課堂實例介紹
   2. Exploratory Data Analysis(EDA)
  
 * At home
-  1. Using R make EDA
+  1. 使用R進行資料整理：轉換資料屬性、合併欄位
+
+Week 3
+----
+### Progress ###
+* In class
+  1. 狄利克雷分佈 LDA
+	1. hight light
+  2. Google Trends
+ 
+* At home
+
