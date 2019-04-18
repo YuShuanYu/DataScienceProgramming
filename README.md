@@ -8,7 +8,7 @@
 Week 1
 ----
 ### Progress ###
-* In class
+###### * In class
 >1. 學習GitHub使用方法：push pull branch
 >2. 學習用Markdown寫ReadMe
  
