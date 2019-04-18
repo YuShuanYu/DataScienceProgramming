@@ -44,4 +44,4 @@ Week 9
 ---
 * In class
   1. TF-IDF
-![image](TF_IDF/螢幕快照 2016-04-14 上午1.39.07.png)
+![image](https://github.com/YuShuanYu/DataScienceProgramming/blob/master/TF_IDF/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202016-04-14%20%E4%B8%8A%E5%8D%881.39.07.png)
