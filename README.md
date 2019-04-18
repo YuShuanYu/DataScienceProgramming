@@ -13,11 +13,11 @@ Week 1
 >2. 學習用Markdown寫ReadMe
  
 * At home
-  1. Wordcloud
-  2. Crawling
-  3. Tokenize English words
-      1. nltk(Natural Language Tool Kit)
-      2. string
+>1. Wordcloud
+>2. Crawling
+>3. Tokenize English words
+    >1. nltk(Natural Language Tool Kit)
+    >2. string
 
 * Homework
   Lyrics crawling歌詞爬蟲
@@ -26,24 +26,24 @@ Week 3
 ----
 ### Progress ###
 * In class
-  1. 課堂實例介紹
-  2. Exploratory Data Analysis(EDA)
+>1. 課堂實例介紹
+>2. Exploratory Data Analysis(EDA)
  
 * At home
-  1. 使用R進行資料整理：轉換資料屬性、合併欄位
+>1. 使用R進行資料整理：轉換資料屬性、合併欄位
 
 Week 4
 ----
 ### Progress ###
 * In class
-  1. 狄利克雷分佈 LDA
-	1. hight light
-  2. Google Trends
+>1. 狄利克雷分佈 LDA
+  >1. hight light
+>2. Google Trends
  
 Week 9
 ---
 * In class
-  >1. TF-IDF
-  >![image](https://github.com/YuShuanYu/DataScienceProgramming/blob/master/TF_IDF/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202016-04-14%20%E4%B8%8A%E5%8D%881.39.07.png)
-  >2. PCA 演算法
-  >3. K means 演算法
+>1. TF-IDF
+>![image](https://github.com/YuShuanYu/DataScienceProgramming/blob/master/TF_IDF/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202016-04-14%20%E4%B8%8A%E5%8D%881.39.07.png)
+>2. PCA 演算法
+>3. K means 演算法
