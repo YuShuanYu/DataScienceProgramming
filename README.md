@@ -44,4 +44,4 @@ Week 9
 ---
 * In class
   1. TF-IDF
-![Alt text](/path/to/img.jpg)
+![image](TF_IDF/螢幕快照 2016-04-14 上午1.39.07.png)
