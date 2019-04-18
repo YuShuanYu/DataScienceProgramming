@@ -22,7 +22,7 @@ Week 1
 * Homework
   Lyrics crawling歌詞爬蟲
 
-Week 2
+Week 3
 ----
 ### Progress ###
 * In class
@@ -32,7 +32,7 @@ Week 2
 * At home
   1. 使用R進行資料整理：轉換資料屬性、合併欄位
 
-Week 3
+Week 4
 ----
 ### Progress ###
 * In class
@@ -40,5 +40,8 @@ Week 3
 	1. hight light
   2. Google Trends
  
-* At home
-
+Week 9
+---
+* In class
+  1. TF-IDF
+![Alt text](/path/to/img.jpg)
