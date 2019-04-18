@@ -45,3 +45,5 @@ Week 9
 * In class
   1. TF-IDF
 ![image](https://github.com/YuShuanYu/DataScienceProgramming/blob/master/TF_IDF/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202016-04-14%20%E4%B8%8A%E5%8D%881.39.07.png)
+  2. PCA 演算法
+  3. K means 演算法
