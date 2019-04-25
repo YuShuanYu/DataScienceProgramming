@@ -19,7 +19,7 @@ Week 1
  nltk(Natural Language Tool Kit)、string
 
 * Homework
-  Lyrics crawling歌詞爬蟲
+>1. Lyrics crawling歌詞爬蟲
 
 Week 3
 ----
