@@ -55,3 +55,4 @@ Week 10
 > 1. P-value
 > 2. T-test
 > 3. ANOVA分析
+> 4. NER(Named-entity Recognition)
