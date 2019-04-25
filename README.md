@@ -16,8 +16,7 @@ Week 1
 >1. Wordcloud
 >2. Crawling
 >3. Tokenize English words
-    nltk(Natural Language Tool Kit)
-    string
+ nltk(Natural Language Tool Kit)、string
 
 * Homework
   Lyrics crawling歌詞爬蟲
