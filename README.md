@@ -16,10 +16,10 @@ Week 1
 >1. Wordcloud
 >2. Crawling
 >3. Tokenize English words
-    nltk(Natural Language Tool Kit)、string
+ nltk(Natural Language Tool Kit)、string
 
 * Homework
-> Lyrics crawling歌詞爬蟲
+>1. Lyrics crawling歌詞爬蟲
 
 Week 3
 ----
@@ -55,4 +55,3 @@ Week 10
 > 1. P-value
 > 2. T-test
 > 3. ANOVA分析
-> 4. NER(Named-entity recognition)
