@@ -56,3 +56,11 @@ Week 10
 > 2. T-test
 > 3. ANOVA分析
 > 4. NER(Named-entity Recognition)
+
+Week 11
+---
+* In class
+> 1. 先做共線性分析：
+	繪製heat map，找出所有商品同時出現的頻率，但這種分析無因果關係
+> 2. 再進行關聯式分析：
+	有因果關係
