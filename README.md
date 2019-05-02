@@ -15,7 +15,7 @@ Week 1
 * At home
 >1. Wordcloud
 >2. Crawling
->3. Tokenize English words
+>3. Tokenize English words  
  nltk(Natural Language Tool Kit)、string
 
 * Homework
@@ -60,7 +60,7 @@ Week 10
 Week 11
 ---
 * In class
-> 1. 先做共線性分析：
+> 1. 先做共線性分析：  
 	繪製heat map，找出所有商品同時出現的頻率，但這種分析無因果關係
-> 2. 再進行關聯式分析：
+> 2. 再進行關聯式分析：  
 	有因果關係
